@@ -1,6 +1,6 @@
-# First Unreal Engine Game #
+# First Unreal Engine Scene #
 
-This is my first unreal engine game, using the starter content and different types of lighting. This was done for a Udemy master course assingment. Here are some screenshots:
+This is my first unreal engine scene, using the starter content and different types of lighting. This was done for a Udemy's master course assingment. Here is a screenshots:
 
 
 <p align="center">
